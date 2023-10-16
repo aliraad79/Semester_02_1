@@ -2,9 +2,13 @@
 All things for semester 1402-1 semester
 
 # Past Deadline
-- [ ] Embeded    hw1         12/14
+- [x] Embeded    hw1         07/23
 
 # Active DeadLines
+- [ ] Embeded    hw2         07/30
+- [ ] Retrive    hw1         08/15
+- [ ] Retrive    hw2         09/04
+
 
 # Long Deadlines
 
@@ -18,13 +22,13 @@ All things for semester 1402-1 semester
 - [ ] Chapter1  5/6/
 - [ ] Chapter2  5/
 
-## Game
+## Retrive
 
-## Entrepreneurship
+## Aien
 
-## Signal
+## RealTime
 
-## Software
+## FA
 
 # Projects
 
