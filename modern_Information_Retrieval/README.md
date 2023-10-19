@@ -13,3 +13,9 @@ HWS 8
 Quiz 2
 MidTerm 4
 Final 6
+
+OR
+MidTerm 25%
+Final 25%
+Quiz 15%
+Prac Hw 35%

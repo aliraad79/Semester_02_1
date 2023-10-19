@@ -22,7 +22,12 @@ All things for semester 1402-1 semester
 - [ ] Chapter1  5/6/
 - [ ] Chapter2  5/
 
-## Retrive
+## IR
+- [ ] Lect1     17/18
+- [ ] Lect2to3  4/10/12/20/24/26/32/35/38/42/48/51/53
+- [ ] Lect4     7/9/13/18/22/ Edit distances?
+- [ ] Lect5     7/22/28
+- [ ] Lect6     NRI
 
 ## Aien
 
