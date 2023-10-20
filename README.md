@@ -32,6 +32,9 @@ All things for semester 1402-1 semester
 ## Aien
 
 ## RealTime
+- [ ] 0.
+- [ ] 1.    2/6/10/14/16/20
+- [ ] 2.    5/8/ 12-14(Definitions) NRI18
 
 ## FA
 
