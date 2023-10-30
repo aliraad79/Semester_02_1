@@ -15,9 +15,11 @@ All things for semester 1402-1 semester
 # Long Deadlines
 
 # MidTerms
+- IR            08/13
 - ? RealTime    09/12
 
 # Finals
+- IR            10/02
 
 
 # Read Again
