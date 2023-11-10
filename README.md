@@ -28,18 +28,27 @@ All things for semester 1402-1 semester
 - [ ] Chapter2  5/
 
 ## IR
-- [ ] Lect1     17/18
-- [ ] Lect2to3  4/10/12/20/24/26/32/35/38/42/48/51/53
-- [ ] Lect4     7/9/13/18/22/ Edit distances?
-- [ ] Lect5     7/22/28
-- [ ] Lect6     NRI
+- [ ] Lect1     * -> 17/18
+- [ ] Lect2to3  ? -> 15/36/38/        * -> 10/20/24/26/32/34/35/41-43/48/50-53/54
+- [ ] Lect4     ? -> 26/              * -> 7/9/13/18/22/27/29
+- [ ] Lect5     ? ->                  * -> 11/18/22/26
+- [ ] Lect6     ? -> 5/18 lambda code * -> 4/7/9/10/12/13/14/16
+- [ ] Lect7     5/6/9/11/15?/19
+- [ ] Lect8     4/8/10/17/ 18?
+- [ ] Lect9     3/7/9/12/15
+- [ ] Lect10    11/13/16/19/ thesaurus
+
+### Quizes
+- [ ] Q1        external sort problems/
+- [ ] Q2
 
 ## Aien
 
 ## RealTime
-- [ ] 0.
-- [ ] 1.    2/6/10/14/16/20
-- [ ] 2.    5/8/ 12-14(Definitions) NRI18
+- [ ] 0.    6/
+- [ ] 1.    2/3/6/8/10/12/14/16/17/20
+- [ ] 2.    5/8/ 12-14(Definitions)/16/20/24/25 /static vs dynamic/optimal vs heuristic/30/35/36/44/46
+- [ ] 3.    6/10/11/14/16 NRI 20
 
 ## FA
 
