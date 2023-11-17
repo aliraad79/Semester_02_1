@@ -4,19 +4,19 @@ All things for semester 1402-1 semester
 # Past Deadline
 - [x] Embeded    hw1         07/23
 - [x] Embeded    hw2         08/02
+- [x] Retrive    hw1         08/15
+- [ ] Embeded    hw3         08/09
 
 # Active DeadLines
-- [ ] Embeded    hw3         08/09
-- [ ] Embeded    hw3         08/14
-- [ ] Retrive    hw1         08/15
-- [ ] Retrive    hw2         09/04
+- [ ] Retrive    hw2         09/06
 
 
 # Long Deadlines
 
 # MidTerms
 - IR            08/13
-- ? RealTime    09/12
+- Embeded       08/30
+- RealTime      09/12
 
 # Finals
 - IR            10/02
