@@ -15,8 +15,8 @@ All things for semester 1402-1 semester
 
 # MidTerms
 - IR            08/13
-- Embeded       08/30
-- RealTime      09/12
+- Embeded       08/30   15-17
+- RealTime      09/12   13-15
 
 # Finals
 - IR            10/02
