@@ -24,8 +24,13 @@ All things for semester 1402-1 semester
 
 # Read Again
 ## Embeded
-- [ ] Chapter1  5/6/
-- [ ] Chapter2  5/
+- [ ] Introduction
+- [ ] Lect1         5/6/10/16/18
+- [ ] Lect2         5/
+- [ ] Lect3         4/5-11/16/20/22/25/35/40/ Moore vs Mealy /45
+- [ ] Lect4.1       3/8/10/19/20/26/29/35/39/42/43-46 NR /52 / NRI
+- [ ] Lect4.2       6/8/11/14/15/
+- [ ] Lect5         3/
 
 ## IR
 - [ ] Lect1     * -> 17/18
@@ -48,7 +53,8 @@ All things for semester 1402-1 semester
 - [ ] 0.    6/
 - [ ] 1.    2/3/6/8/10/12/14/16/17/20
 - [ ] 2.    5/8/ 12-14(Definitions)/16/20/24/25 /static vs dynamic/optimal vs heuristic/30/35/36/44/46
-- [ ] 3.    6/10/11/14/16 NRI 20
+- [ ] 3.    6/10/11/14/16/17/19/20/23/24/ LDF?/30-31/34
+- [ ] 4.    NRI
 
 ## FA
 
