@@ -19,7 +19,11 @@ All things for semester 1402-1 semester
 - RealTime      09/12   13-15
 
 # Finals
-- IR            10/02
+- Embeded       10/21   15:00
+- FA            10/24   15:00
+- Aein          10/30   13:00
+- IR            10/02   09:00
+- RealTime      11/03   09:00
 
 
 # Read Again
