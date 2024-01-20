@@ -67,6 +67,12 @@ All things for semester 1402-1 semester
 - [ ] 2.    ? ->                 * -> 5/8/ 12-14(Definitions)/16/20/24/25 /static vs dynamic/optimal vs heuristic/30/35/36/44/46
 - [ ] 3.    6/10/11/14/16/17/19/20/23/24/ LDF?/30-31/34
 - [ ] 4.    NRI
+- [ ] 5.    8/13/21/27/33/    
+- [ ] 6.
+- [ ] 7.
+- [ ] 8.
+- [ ] 9.
+- [ ] 10.
 
 ## FA
 
