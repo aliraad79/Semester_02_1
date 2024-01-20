@@ -49,8 +49,8 @@ All things for semester 1402-1 semester
 - [ ] Lect11        10/14/24/
 - [ ] Lect12        4/8-~
 - [ ] Lect13        8/15/           19/
-- [ ] Lect14to16    
-- [ ] Lect17to19
+- [ ] Lect14to16    6/11/14/22/23/36/39/40-42/49-50/53/
+- [ ] Lect17to19    12/25/Model Based clustring/41/48-49/End
 - [ ] Lect20
 - [ ] Lect21
 - [ ] Lect22
