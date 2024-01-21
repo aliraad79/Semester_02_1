@@ -51,9 +51,9 @@ All things for semester 1402-1 semester
 - [ ] Lect13        8/15/           19/
 - [ ] Lect14to16    6/11/14/22/23/36/39/40-42/49-50/53/
 - [ ] Lect17to19    12/25/Model Based clustring/41/48-49/End
-- [ ] Lect20
-- [ ] Lect21
-- [ ] Lect22
+- [ ] Lect20        6/11/13/18/21/26/29
+- [ ] Lect21        3/10/13/14/20/22/
+- [ ] Lect22        NRI
 
 ### Quizes
 - [ ] Q1        external sort problems/
