@@ -47,13 +47,13 @@ All things for semester 1402-1 semester
 - [ ] Lect9         3/7/9/12/15
 - [ ] Lect10        13/16/
 - [ ] Lect11        10/14/24/
-- [ ] Lect12        4/8-~
+- [ ] Lect12        4/8/17
 - [ ] Lect13        8/15/           19/
 - [ ] Lect14to16    6/11/14/22/23/36/39/40-42/49-50/53/
-- [ ] Lect17to19    12/25/Model Based clustring/41/48-49/End
-- [ ] Lect20        6/11/13/18/21/26/29
+- [ ] Lect17to19    12/25/27/Model Based clustring/41/48-49/End
+- [ ] Lect20        6/11/13/18/21/26/29 PCA
 - [ ] Lect21        3/10/13/14/20/22/
-- [ ] Lect22        NRI
+- [ ] Lect22        r
 
 ### Quizes
 - [ ] Q1        external sort problems/
@@ -68,14 +68,19 @@ All things for semester 1402-1 semester
 - [ ] 3.    6/10/11/14/16/17/19/20/23/24/ LDF?/30-31/34
 - [ ] 4.    NRI
 - [ ] 5.    8/13/21/27/33/    
-- [ ] 6.    DPE ? /14/21/26-9/
-- [ ] 7.    8/12/26/28/32/35/39/NRI 43/
-- [ ] 8.    8/10/ NRI13
-- [ ] 9.
-- [ ] 10.
+- [ ] 6.    7/14/21/26-9/
+- [ ] 7.    8/12/26/25/28/32/35/39/43/48
+- [ ] 8.    10/17/21/22
+- [ ] 9.    8-9/20/
+- [ ] 10.   7/10/19/
 
 ## FA
 
 # Projects
 
 # Grades
+- RealTime  11.4
+- Embeded   10.8
+- FA        12
+- Aein      20
+- IR        9.5
